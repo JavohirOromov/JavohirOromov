@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,jetpack,xml,gradle,flutter,dart,firebase,sqlite,room,realm,figma,git,github,vscode,docker,linux,postman,fastlane,graphql,retrofit,rxjava,materialui" />
+   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,flutter,dart,firebase,sqlite,room,realm,figma,git,github,vscode,docker,linux,postman,retrofit,materialui,cpp,cs,c,docker,linkedin" />
 </div>
 
 <br/>
