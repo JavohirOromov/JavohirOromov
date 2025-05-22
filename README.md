@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace** 
  
- 🌱 I’m currently learning **JetPack Compose & BroadCast Receiver**
+ 🌱 I’m currently learning **JetPack Compose & Kotlin Multiplatform**
 
 💬 Ask me about **Kotlin, Java, C++... or anything [here](https://github.com/JavohirOromov/)**
 
